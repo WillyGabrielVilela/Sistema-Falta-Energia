@@ -37,8 +37,8 @@ Desenvolver um sistema de monitoramento de energia utilizando um Arduino, um dis
 
 ### Esquema de Conexão
 Para um melhor entendimento das conexões, consulte os arquivos a seguir:
-- **Arquivo de PCB**: [Sistema de Falta de Energia.brd]((https://github.com/WillyGabrielVilela/Sistema-Falta-Energia/blob/main/Sistema%20de%20Falta%20de%20Energia.brd)) )
-- **Imagem do Esquema**: ![Esquema de Conexão]([Sistema_de_Falta_de_Energia.png.png](https://github.com/WillyGabrielVilela/Sistema-Falta-Energia/blob/main/Sistema%20de%20Falta%20de%20Energia.png))
+Verificar a imagem png na raiz do projeto e o arquivo .brd
+
 ## Conclusão
 Esse projeto fornece uma maneira eficaz de monitorar a energia utilizando um Arduino, permitindo ajustes dinâmicos com um potenciômetro e visualização dos dados em um display LCD.
 
