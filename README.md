@@ -15,7 +15,7 @@
 # Projeto: Monitor de Energia com Arduino
 
 ## Objetivo
-Desenvolver um sistema de monitoramento de energia utilizando um Arduino, um display LCD e um potenciômetro para ajustar a tensão lida.
+Desenvolver um sistema de monitoramento de energia utilizando um Arduino, um display LCD e um potenciômetro para ajustar a tensão lida e caso de falta avisar via SMS
 
 ## Requisitos
 ### Requisitos de Hardware
